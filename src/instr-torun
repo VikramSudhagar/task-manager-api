@@ -1,0 +1,2 @@
+TO run mongoose D:\MongoDB\bin\mongod.exe --dbpath=D:\MongoDB-data
+To run nodemon -> npm run dev
